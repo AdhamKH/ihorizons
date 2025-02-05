@@ -48,3 +48,8 @@ export default tseslint.config({
   },
 })
 ```
+# Craete .env.local file
+create  .env.local file in root directory and paste 
+VITE_MAIN_URL_BASE=https://pokeapi.co/api/v2
+
+
